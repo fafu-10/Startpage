@@ -1,0 +1,128 @@
+{
+  "yags-general": {
+    "img": "https://i.redd.it/obbe2v50wk641.gif",
+    "title": "(ㆆ_ㆆ)",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false,
+    "fontSize": 1
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "duckduckgo",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#252A33",
+        "base": "#2E3440",
+        "surface": "#373E4D",
+        "highlight": "#40495A"
+      },
+      "fg": {
+        "shade": "#4678AB",
+        "base": "#6B96C2",
+        "surface": "#96B4D4",
+        "highlight": "#C0D2E5"
+      },
+      "primary": {
+        "bg": "#343641",
+        "base": "#676C82",
+        "fg": "#A5A9B8"
+      },
+      "secondary": {
+        "bg": "#4F5E6E",
+        "base": "#B2BDC8",
+        "fg": "#FFFFFF"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 1,
+      "blur": 0,
+      "offset": 5,
+      "shadow": "5px 5px 0px #343641"
+    },
+    "borderRadius": 0,
+    "maxWidth": 1000
+  },
+  "yags-bookmarks": [
+    {
+      "id": "vXkXf3mJVT6byCLY",
+      "label": "School",
+      "bookmarks": [
+        {
+          "id": "BHlt7L1hfyBEkXqr",
+          "label": "Login",
+          "url": "https://student.myillini.illinois.edu/"
+        },
+        {
+          "id": "NNS1dcvSqZGE8cPr",
+          "label": "Outlook",
+          "url": "https://outlook.live.com/owa/"
+        },
+        {
+          "id": "e6n4BAzaJgcCLbq7",
+          "label": "Moodle",
+          "url": "https://learn.illinois.edu/auth/saml2sso/gateway.php"
+        },
+        {
+          "id": "6ykptqFrQKNFb5dw",
+          "label": "Canvas",
+          "url": "https://canvas.illinois.edu/"
+        }
+      ]
+    },
+    {
+      "id": "UX1v2NLi44FGqCXk",
+      "label": "Other",
+      "bookmarks": [
+        {
+          "id": "WZrnUfYG0aLCXehl",
+          "label": "r/unixporn",
+          "url": "https://safereddit.com/r/unixporn/"
+        },
+        {
+          "id": "dFJ8d3fNJOjBPYUX",
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/"
+        },
+        {
+          "id": "tvSexK1zomOxZOw4",
+          "label": "Monkeytype",
+          "url": "https://monkeytype.com/"
+        },
+        {
+          "id": "t2mCC1D2OZV8ezVm",
+          "label": "9Anime",
+          "url": "https://9anime.to/home"
+        }
+      ]
+    }
+  ]
+}
